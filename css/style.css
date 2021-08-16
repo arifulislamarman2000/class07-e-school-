@@ -25,6 +25,8 @@ a, a:hover {
 
     margin: auto;
 }
+.align{
+	align-items:center;
 .col-4{
     width: 25%;
     padding: 20px;
